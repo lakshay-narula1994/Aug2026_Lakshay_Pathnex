@@ -1,4 +1,4 @@
 60 min -git code
 2 hour linux video
-an hour -ip address and subnet
-45 min -practice linux commands
+an hour - ip address and subnet
+45 min - practice linux commands
